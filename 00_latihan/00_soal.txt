@@ -1,0 +1,11 @@
+SOAL LATIHAN MENGIRIM PULL REQUEST
+
+Copy file ini, lalu hapus pesan beserta border di bawah ini. Sisakan pesan di bawah border saja.
+
+
+============================================================================
+
+Nama        :
+NIM         :
+Lab         :
+Motto hidup :
